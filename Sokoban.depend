@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1144535178 c:\documents and settings\mateo21\mes documents\sites\sdz - ecriture\c-c++\tests\kasstet\main.c
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1144942866 c:\documents and settings\mateo21\mes documents\sites\sdz - ecriture\c-c++\tests\mario_sokoban\fichiers.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"constantes.h"
+	"fichiers.h"
+
+1144925066 c:\documents and settings\mateo21\mes documents\sites\sdz - ecriture\c-c++\tests\mario_sokoban\constantes.h
+
+1144672273 c:\documents and settings\mateo21\mes documents\sites\sdz - ecriture\c-c++\tests\mario_sokoban\fichiers.h
+
+1144935714 c:\documents and settings\mateo21\mes documents\sites\sdz - ecriture\c-c++\tests\mario_sokoban\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"constantes.h"
+	"jeu.h"
+
+1144779351 c:\documents and settings\mateo21\mes documents\sites\sdz - ecriture\c-c++\tests\mario_sokoban\jeu.h
+
+1144947138 c:\documents and settings\mateo21\mes documents\sites\sdz - ecriture\c-c++\tests\mario_sokoban\editeur.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"constantes.h"
+	"editeur.h"
+	"fichiers.h"
+
+1144670335 c:\documents and settings\mateo21\mes documents\sites\sdz - ecriture\c-c++\tests\mario_sokoban\editeur.h
+
+1144877284 c:\documents and settings\mateo21\mes documents\sites\sdz - ecriture\c-c++\tests\mario_sokoban\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"constantes.h"
+	"jeu.h"
+	"editeur.h"
+
+1144673342 c:\documents and settings\mateo21\mes documents\sites\sdz - ecriture\c-c++\tests\mario_sokoban\ressources.rc
+
+1449431800 source:c:\users\mamel\desktop\sokoban\editeur.c
+	<stdlib.h>
+	<stdio.h>
+	<C:\Users\mamel\Desktop\sokoban\SDL\SDL.h>
+	"constantes.h"
+	"editeur.h"
+	"fichiers.h"
+
+1449425481 c:\users\mamel\desktop\sokoban\constantes.h
+
+1449426560 c:\users\mamel\desktop\sokoban\editeur.h
+
+1449426528 c:\users\mamel\desktop\sokoban\fichiers.h
+
+1449431850 source:c:\users\mamel\desktop\sokoban\fichiers.c
+	<stdlib.h>
+	<stdio.h>
+	<C:\Users\mamel\Desktop\sokoban\SDL\SDL.h>
+	"constantes.h"
+	"fichiers.h"
+
+1449431966 source:c:\users\mamel\desktop\sokoban\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<C:\Users\mamel\Desktop\sokoban\SDL\SDL.h>
+	"constantes.h"
+	"jeu.h"
+
+1449426560 c:\users\mamel\desktop\sokoban\jeu.h
+
+1449432600 source:c:\users\mamel\desktop\sokoban\main.c
+	<stdlib.h>
+	<stdio.h>
+	<C:\Users\mamel\Desktop\sokoban\SDL\SDL.h>
+	"constantes.h"
+	"jeu.h"
+	"editeur.h"
+
+1449432892 source:c:\users\mamel\desktop\sokoban\ressources.rc
+
